@@ -2,4 +2,4 @@
 
 Team Clinic in the Park 
 
-Eric Acampora,Eddie Luong, Hugo Polanco, Ka Lun Lee 
+Eric Acampora,Eddie Duong, Hugo Polanco, Ka Lun Lee 
